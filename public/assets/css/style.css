@@ -1,0 +1,47 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: none;
+  color: black;
+ 
+}
+
+.label {
+  font-weight: bold;
+  
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  
+}
+
+.form-group {
+  margin-bottom: 5px;
+ 
+}
+
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+
+.special-card {
+    opacity: .9;
+  }
